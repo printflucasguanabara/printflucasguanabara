@@ -7,7 +7,6 @@
 
 
 
-
 # 👇 My LinkedIn for more info!
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-fernandes-guanabara-1a688b1b7/)
 
