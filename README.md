@@ -4,7 +4,7 @@
  
  <img align="right" width="290px" style="margin-top:-20px" src="https://user-images.githubusercontent.com/110312548/235371482-7f72486b-7696-450b-b341-d762c84afaa7.png">
 
-<br>
+<br><br>
 
 ## About Me 🎯
 
@@ -14,13 +14,7 @@
 💬 Graduating in Information Systems (currently in the 4th semester).<br>
 🎮 I have experience with PhotoShop for 4 years.<br>
 📚 My childhood dream is to be a Graphic Designer but, over time, I fell in love with Programming.<br>
-<br>
-
-<br>
-
-
-## My name is Lucas and i'am a aspiring Front-end Developer & UX/UI Designer!
-
+<br><br>
 
 ### 🖥️📚 Studying and Knowledge: 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) &nbsp;
