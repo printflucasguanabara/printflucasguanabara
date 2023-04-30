@@ -1,6 +1,6 @@
 
 # 👋 Hello! Welcome to my Github profile.
-## My name is Lucas and i'am Front-end Developer & UX/UI Designer!
+## My name is Lucas and i'am a Front-end Developer & UX/UI Designer!
 
 
 📚 Currently studying: ![js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![ts](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
