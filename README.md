@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Lucas and i'am a aspiring Front-end Developer & UX/UI Designer! ![fdfaf3cf-78e7-4f35-99d0-6b7f6c58e3c9](https://user-images.githubusercontent.com/110312548/235371482-7f72486b-7696-450b-b341-d762c84afaa7.png)
 </p>
