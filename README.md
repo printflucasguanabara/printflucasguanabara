@@ -9,11 +9,11 @@
 ## About Me 🎯
 
 💻 Aspiring Front-end Developer & UX/UI Designer!.<br>
-🧊 studying front-end development more than one year.<br>
-🎤 I started in the development world with C++.<br>
-💬 Graduating in Information Systems (currently in the 4th semester).<br>
-🎮 I have experience with PhotoShop for 4 years.<br>
-📚 My childhood dream is to be a Graphic Designer but, over time, I fell in love with Programming.<br>
+📚 studying front-end development more than one year.<br>
+🌱 I started in the development world with C++.<br>
+🔭 Graduating in Information Systems (currently in the 4th semester).<br>
+🏅 I have experience with PhotoShop for 4 years.<br>
+💬 My childhood dream is to be a Graphic Designer but, over time, I fell in love with Programming.<br>
 <br><br>
 
 ### 🖥️📚 Studying and Knowledge: 
