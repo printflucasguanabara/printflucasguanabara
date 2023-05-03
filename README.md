@@ -1,6 +1,6 @@
 # Lucas Fernandes Guanabara
  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-323330?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/lucas-f-guanabara-1a688b1b7/) &nbsp;
- [![Instagram Usakimodoki Badge](https://img.shields.io/badge/Instagram-323330?style=for-the-badge&logo=instagram&logoColor=purple)](https://www.instagram.com/lucasguanabara_/) &nbsp;
+
  
  <img align="right" width="290px" style="margin-top:-20px" src="https://user-images.githubusercontent.com/110312548/235371482-7f72486b-7696-450b-b341-d762c84afaa7.png">
 
