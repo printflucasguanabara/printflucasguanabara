@@ -13,7 +13,7 @@
 💻 Aspiring Front-end Developer & UX/UI Designer!.<br>
 📚 studying front-end development more than one year.<br>
 🌱 I started in the development world with C++.<br>
-🔭 Graduating in Information Systems (currently in the 4th semester).<br>
+🔭 Graduating in Information Systems (currently in the 5th semester).<br>
 🏅 I have experience with Photoshop for 6 years.<br>
 🥰 Love Cars, Music and Technology.<br>
 <br><br>
