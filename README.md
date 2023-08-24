@@ -10,7 +10,7 @@
 
 ## About Me 🎯
 
-💻 Aspiring Front-end Developer & UX/UI Designer!.<br>
+💻 Aspiring Front-end Developer & UX/UI Designer!<br>
 📚 studying front-end development more than one year.<br>
 🌱 I started in the development world with C++.<br>
 🔭 Bachelor Degree in Information Systems (currently in the 5th semester).<br>
@@ -30,6 +30,12 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) &nbsp;
 ![AdobeXD](	https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) &nbsp;
 ![AdobePhotoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black) &nbsp;
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white) &nbsp;
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) &nbsp;
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) &nbsp;
+
+
+
 
 <br>
 <br>
