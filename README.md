@@ -16,7 +16,7 @@
 🔭 Bachelor Degree in Information Systems (currently in the 5th semester).<br>
 🏅 I have experience with Photoshop for 5 years.<br>
 👨‍💻 Great IT Knowledge.<br>
-❤ Love Cars, Music and Tech.<br>
+❤ Love Tech, Berserk, Music and Cars.<br>
 <br><br>
 
 ### 🖥️📚 Studying and Knowledge: 
