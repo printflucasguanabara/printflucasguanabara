@@ -1,8 +1,6 @@
 # Lucas Fernandes Guanabara
  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-323330?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/lucas-f-guanabara-1a688b1b7/) &nbsp;
  
- 
- 
    
  <img align="right" width="290px" style="margin-top:-20px" src="https://user-images.githubusercontent.com/110312548/235371482-7f72486b-7696-450b-b341-d762c84afaa7.png">
 
@@ -34,16 +32,11 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) &nbsp;
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) &nbsp;
 
-
-
-
 <br>
 <br>
 <br>
 <br>     
-           
-        
-        
+    
 <a href="https://github.com/printflucasguanabara">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=printflucasguanabara&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=printflucasguanabara&layout=compact&langs_count=8&theme=algolia"/>
