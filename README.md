@@ -42,3 +42,4 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=printflucasguanabara&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 <img src="https://komarev.com/ghpvc/?username=prinflucasguanabara&label=Visits">
+[Older Account](https://github.com/lucashaddd?tab=overview&from=2023-09-01&to=2023-09-20)
