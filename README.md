@@ -1,46 +1,70 @@
-# Lucas Fernandes Guanabara
- [![Linkedin Badge](https://img.shields.io/badge/Linkedin-323330?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/lucas-f-guanabara-1a688b1b7/) &nbsp;
- 
-   
- <img align="right" width="290px" style="margin-top:-20px" src="https://user-images.githubusercontent.com/110312548/235371482-7f72486b-7696-450b-b341-d762c84afaa7.png">
-
-<br><br>
-
-## About Me 🎯
-
-💻 Aspiring Front-end Developer & UX/UI Designer!<br>
-📚 studying front-end development more than one year.<br>
-🌱 I started in the development world with C++.<br>
-🔭 Bachelor Degree in Information Systems (currently in the 5th semester).<br>
-🏅 I have experience with Photoshop for 5 years.<br>
-👨‍💻 Great IT Knowledge.<br>
-❤ Love Tech, Berserk, Music and Cars.<br>
-<br><br>
-
-### 🖥️📚 Studying and Knowledge: 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) &nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) &nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) &nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) &nbsp;
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) &nbsp;
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-### 🔧💻 Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) &nbsp;
-![AdobeXD](	https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) &nbsp;
-![AdobePhotoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black) &nbsp;
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white) &nbsp;
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) &nbsp;
-![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) &nbsp;
-
-<br>
-<br>
-<br>
-<br>     
-    
-<a href="https://github.com/printflucasguanabara">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=printflucasguanabara&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=printflucasguanabara&layout=compact&langs_count=8&theme=algolia"/>
+# Hi, I'm Lucas 👨🏻‍💻 
+<a href="https://www.linkedin.com/in/lucas-f-guanabara-1a688b1b7/">
+<img src="https://img.shields.io/badge/Linkedin-0041a8?style=flat&logo=linkedin&logoColor=white" alt="Aimeos logo" title="Aimeos" align="right" height="40"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=prinflucasguanabara&label=Visits">
+
+<div>
+	I'm a aspiring Front-End Developer & UX/UI Designer.</br>
+	At the moment building some personal projects.</br>
+	👨‍💻 Great IT Knowledge
+ 
+</div>
+
+## Minhas Techs e Stacks
+<div style="display: flex; flex-direction: row; justify-content: flex-center;">
+  
+  <img src="https://img.shields.io/badge/-Typescript-0041a8?style=flat&logo=TypeScript&logoColor=white" height="30" alt="Typescript" />
+ <img src="https://img.shields.io/badge/JavaScript-0041a8?style=flat&logo=javascript&logoColor=white" height="30" alt="Javascript" />
+ <img src="https://img.shields.io/badge/Dart-0041a8?style=flat&logo=dart&logoColor=white" height="30" alt="dart" />
+ <img src="https://img.shields.io/badge/SASS-0041a8?style=flat&logo=sass&logoColor=white" height="30" alt="sass" />
+ <img src="https://img.shields.io/badge/Tailwind_Css-0041a8?style=flat&logo=tailwind-css&logoColor=white" height="30" alt="Tailwind CSS" />
+ <img src="https://img.shields.io/badge/jQuery-0041a8?style=flat&logo=Jquery&logoColor=white" height="30" alt="jQuery" />
+ <img src="https://img.shields.io/badge/Bootstrap-0041a8?style=flat&logo=bootstrap&logoColor=white" height="30" alt="Bootstrap" />
+ <img src="https://img.shields.io/badge/HTML5-0041a8?style=flat&logo=html5&logoColor=white" height="30" alt="HTML" />
+ <img src="https://img.shields.io/badge/CSS3-0041a8?style=flat&logo=css3&logoColor=white" height="30" alt="CSS" /> 
+</div>
+
+<div style="display: flex; flex-direction: row; justify-content: flex-center;">
+  
+  <img src="https://img.shields.io/badge/-FIGMA-4900bf?style=flat&logo=figma&logoColor=white" height="30" alt="Figma" />  
+    <img src="https://img.shields.io/badge/-Adobe XD-4900bf?style=flat&logo=adobe-xd&logoColor=white" height="30" alt="XD" />  
+  <img src="https://img.shields.io/badge/-Adobe Photoshop-4900bf?style=flat&logo=Adobe%20Photoshop&logoColor=white" height="30" alt="Photoshop" />  
+  <img src="https://img.shields.io/badge/-Canva-4900bf?style=flat&logo=canva&logoColor=white" height="30" alt="Canva" />  
+</div>
+
+<div style="display: flex; flex-direction: row; justify-content: flex-center;">
+ 
+  <img src="https://img.shields.io/badge/-Visual Studio Code-49004e?style=flat&logo=visual%20studio%20code&logoColor=white" height="30" alt="VSCODE" />
+  <img src="https://img.shields.io/badge/-Visual Studio-49004e?style=flat&logo=visual%20studio&logoColor=white" height="30" alt="VS" />
+ <img src="https://img.shields.io/badge/-Notepad++-49004e?style=flat&logo=notepad%2B%2B&logoColor=white" height="30" alt="Figma" />
+</div>
+
+<div style="display: flex; flex-direction: row; justify-content: flex-center;">
+
+ <img src="https://img.shields.io/badge/C++-160015?style=flat&logo=c%2B%2B&logoColor=white" height="30" alt="cplusplus" />
+ <img src="https://img.shields.io/badge/PHP-160015?style=flat&logo=php&logoColor=white" height="30" alt="Php" />
+ 
+</div>
+
+## Discord + Github data
+
+<div style="display: flex; flex-direction: column">
+  <div style="display: flex; flex-direction: row">
+    <img
+	style="min-width: 134px; max-height: 134px;"
+	 width="320"
+        src="https://lanyard-profile-readme.vercel.app/api/680987474797002752?theme=dark&bg=000000&animated=false&borderRadius=10px"
+     />
+     <img
+	style="min-width: 164px;"
+	height="164"
+        src="https://streak-stats.demolab.com/?user=printflucasguanabara&theme=midnight_purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
+      />
+   </div>
+   
+</div>
+
+ 
+ 
 
 [Older Account](https://github.com/lucashaddd?tab=overview&from=2023-09-01&to=2023-09-20)
