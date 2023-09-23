@@ -1,13 +1,12 @@
-# Hi, I'm Lucas 👨🏻‍💻 
+# Olá, Me Chamo Lucas <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 <a href="https://www.linkedin.com/in/lucas-f-guanabara-1a688b1b7/">
 <img src="https://img.shields.io/badge/Linkedin-0041a8?style=flat&logo=linkedin&logoColor=white" alt="Aimeos logo" title="Aimeos" align="right" height="40"/>
 </a>
 
 <div>
-	I'm a aspiring Front-End Developer & UX/UI Designer.</br>
-	At the moment building some personal projects.</br>
-	👨‍💻 Great IT Knowledge
- 
+	Aspirante á Front-End Developer & UX/UI Designer.<br>
+	Apaixonado por Tecnologia<br>
+	No momento estou criando projetos pessoais variados.<br>
 </div>
 
 ## Minhas Techs e Stacks
