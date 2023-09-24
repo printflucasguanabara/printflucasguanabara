@@ -45,7 +45,7 @@
  
 </div>
 
-## Discord + Github data
+## Discord Status + Github data
 
 <div style="display: flex; flex-direction: column">
   <div style="display: flex; flex-direction: row">
