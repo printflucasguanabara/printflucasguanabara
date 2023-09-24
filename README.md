@@ -4,9 +4,9 @@
 </a>
 
 <div>
-	Aspirante á Front-End Developer & UX/UI Designer.<br>
-	Apaixonado por Tecnologia<br>
-	No momento estou criando projetos pessoais variados.<br>
+	🚀Aspirante á Front-End Developer & UX/UI Designer.<br>
+	💻 Universitário de T.I Apaixonado por Tecnologia<br>
+	🛠️ No momento estou criando projetos pessoais variados.<br>
 </div>
 
 ## Minhas Techs e Stacks
