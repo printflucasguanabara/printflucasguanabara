@@ -6,7 +6,7 @@
 <div>
 	🚀Aspirante á Front-End Developer & UX/UI Designer.<br>
 	💻 Universitário de T.I Apaixonado por Tecnologia<br>
-	🛠️ No momento estou criando projetos pessoais variados.<br>
+	🛠️ No momento estou criando projetos pessoais variados e dinâmicos.<br>
 </div>
 
 ## Minhas Techs e Stacks
