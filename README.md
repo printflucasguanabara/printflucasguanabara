@@ -1,6 +1,6 @@
 # Olá, Me Chamo Lucas <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 <a href="https://www.linkedin.com/in/lucas-f-guanabara-1a688b1b7/">
-<img src="https://img.shields.io/badge/Linkedin-0041a8?style=flat&logo=linkedin&logoColor=white" alt="Aimeos logo" title="Aimeos" align="right" height="35"/>
+<img src="https://img.shields.io/badge/Linkedin-0041a8?style=flat&logo=linkedin&logoColor=white" alt="Aimeos logo" title="Aimeos" align="right" height="33"/>
 </a>
 
 <div>
