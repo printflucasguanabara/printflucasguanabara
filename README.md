@@ -28,7 +28,6 @@
   <img src="https://img.shields.io/badge/-FIGMA-4900bf?style=flat&logo=figma&logoColor=white" height="30" alt="Figma" />  
     <img src="https://img.shields.io/badge/-Adobe XD-4900bf?style=flat&logo=adobe-xd&logoColor=white" height="30" alt="XD" />  
   <img src="https://img.shields.io/badge/-Adobe Photoshop-4900bf?style=flat&logo=Adobe%20Photoshop&logoColor=white" height="30" alt="Photoshop" />  
-  <img src="https://img.shields.io/badge/-Canva-4900bf?style=flat&logo=canva&logoColor=white" height="30" alt="Canva" />  
 </div>
 
 <div style="display: flex; flex-direction: row; justify-content: flex-center;">
