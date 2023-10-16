@@ -1,66 +1,54 @@
-# Olá, Me Chamo Lucas <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
-<a href="https://www.linkedin.com/in/lucas-f-guanabara-1a688b1b7/">
-<img src="https://img.shields.io/badge/Linkedin-0041a8?style=flat&logo=linkedin&logoColor=white" alt="Aimeos logo" title="Aimeos" align="right" height="33"/>
-</a>
+<h1 align="center">Olá<a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"></a>, sou o Lucas</h1>
 
-<div>
-	🚀Aspirante á Front-End Developer & UX/UI Designer.<br>
-	💻 Universitário de T.I Apaixonado por Tecnologia<br>
-	🛠️ No momento estou criando projetos pessoais variados e dinâmicos.<br>
-</div>
 
-## Minhas Techs e Stacks
-<div style="display: flex; flex-direction: row; justify-content: flex-center;">
-  
-  <img src="https://img.shields.io/badge/-Typescript-0041a8?style=flat&logo=TypeScript&logoColor=white" height="30" alt="Typescript" />
- <img src="https://img.shields.io/badge/JavaScript-0041a8?style=flat&logo=javascript&logoColor=white" height="30" alt="Javascript" />
- <img src="https://img.shields.io/badge/Dart-0041a8?style=flat&logo=dart&logoColor=white" height="30" alt="dart" />
- <img src="https://img.shields.io/badge/SASS-0041a8?style=flat&logo=sass&logoColor=white" height="30" alt="sass" />
- <img src="https://img.shields.io/badge/Tailwind_Css-0041a8?style=flat&logo=tailwind-css&logoColor=white" height="30" alt="Tailwind CSS" />
- <img src="https://img.shields.io/badge/jQuery-0041a8?style=flat&logo=Jquery&logoColor=white" height="30" alt="jQuery" />
- <img src="https://img.shields.io/badge/Bootstrap-0041a8?style=flat&logo=bootstrap&logoColor=white" height="30" alt="Bootstrap" />
- <img src="https://img.shields.io/badge/HTML5-0041a8?style=flat&logo=html5&logoColor=white" height="30" alt="HTML" />
- <img src="https://img.shields.io/badge/CSS3-0041a8?style=flat&logo=css3&logoColor=white" height="30" alt="CSS" /> 
-</div>
+<h3 align="center"><em>Graduando em Sistemas de Informação<br>
+Muitos sonhos e sede por mudança por meio da tecnologia.<br>
+Ansioso por um futuro promissor e acredito que ele só pode ser alcançado com trabalho duro e dedicação.</em></h3><br>
 
-<div style="display: flex; flex-direction: row; justify-content: flex-center;">
-  
-  <img src="https://img.shields.io/badge/-FIGMA-4900bf?style=flat&logo=figma&logoColor=white" height="30" alt="Figma" />  
-    <img src="https://img.shields.io/badge/-Adobe XD-4900bf?style=flat&logo=adobe-xd&logoColor=white" height="30" alt="XD" />  
-  <img src="https://img.shields.io/badge/-Adobe Photoshop-4900bf?style=flat&logo=Adobe%20Photoshop&logoColor=white" height="30" alt="Photoshop" />  
-</div>
+- 🚀 Aspirante a Front-End Developer & UX/UI Designer.
 
-<div style="display: flex; flex-direction: row; justify-content: flex-center;">
- 
-  <img src="https://img.shields.io/badge/-Visual Studio Code-49004e?style=flat&logo=visual%20studio%20code&logoColor=white" height="30" alt="VSCODE" />
-  <img src="https://img.shields.io/badge/-Visual Studio-49004e?style=flat&logo=visual%20studio&logoColor=white" height="30" alt="VS" />
- <img src="https://img.shields.io/badge/-Notepad++-49004e?style=flat&logo=notepad%2B%2B&logoColor=white" height="30" alt="Figma" />
-</div>
+- 🌱 Melhorando e práticando minhas habilidades com  **JS**
 
-<div style="display: flex; flex-direction: row; justify-content: flex-center;">
+- 💻 Estudante de T.I apaixonado por tech!
 
- <img src="https://img.shields.io/badge/C++-160015?style=flat&logo=c%2B%2B&logoColor=white" height="30" alt="cplusplus" />
- <img src="https://img.shields.io/badge/PHP-160015?style=flat&logo=php&logoColor=white" height="30" alt="Php" />
- 
-</div>
+- 🛠️ No momento estou criando projetos pessoais variados e dinâmicos.
 
-## Discord Status + Github data
+- 📫 Melhor forma de me contatar: **lucasff.guanabara@gmail.com**
 
-<div style="display: flex; flex-direction: column">
-  <div style="display: flex; flex-direction: row">
-    <img
-	style="min-width: 134px; max-height: 134px;"
-	 width="320"
-        src="https://lanyard-profile-readme.vercel.app/api/680987474797002752?theme=dark&bg=000000&animated=false&borderRadius=10px"
-     />
-     <img
-	style="min-width: 164px;"
-	height="164"
-        src="https://streak-stats.demolab.com/?user=printflucasguanabara&theme=midnight_purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
-      />
-   </div>
-   
-</div>
+<h3 align="left">Entre em Contato:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/joaohypobarboza/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lucas-f-guanabara-1a688b1b7/" height="30" width="40" /></a>
+<a href="https://instagram.com/lucasguanabara_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joaohypo" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="joaohypo" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Techs & Stacks:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,tailwindcss,bootstrap,jquery,dart,php,cpp)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=figma,photoshop,xd)](https://skillicons.dev)
+
+<h1 align="center"> </h1>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://lanyard-profile-readme.vercel.app/api/680987474797002752?theme=dark&bg=000000&animated=false&borderRadius=10px" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=printflucasguanabara&theme=midnight_purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" /> <!--merko-->
+  </a>
+</p>
+
+
+
+<p align="center"> <img src="https://github.com/lucashaddd?tab=overview&from=2023-09-01&to=2023-09-20" alt="Older Account" /> </p>
+
+<h1 align="center"> </h1>
+<h3 align="center">Just Never Give Up</em></h3>
+
+
  
 
-[Older Account](https://github.com/lucashaddd?tab=overview&from=2023-09-01&to=2023-09-20)
+
