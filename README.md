@@ -17,7 +17,7 @@ Ansioso por um futuro promissor e acredito que ele só pode ser alcançado com t
 
 <h3 align="left">Entre em Contato:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/joaohypobarboza/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lucas-f-guanabara-1a688b1b7/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lucas-f-guanabara-1a688b1b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lucas-f-guanabara-1a688b1b7/" height="30" width="40" /></a>
 <a href="https://instagram.com/lucasguanabara_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joaohypo" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="joaohypo" height="30" width="40" /></a>
 </p>
