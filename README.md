@@ -2,7 +2,7 @@
 
 
 <h3 align="center"><em>Graduando em Sistemas de Informação<br>
-Muitos sonhos e sede por mudança por meio da tecnologia.<br>
+Muitos sonhos e sede pela mudança por meio da tecnologia.<br>
 Ansioso por um futuro promissor e acredito que ele só pode ser alcançado com trabalho duro e dedicação.</em></h3><br>
 
 - 🚀 Aspirante a Front-End Developer & UX/UI Designer.
