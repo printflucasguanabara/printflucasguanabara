@@ -22,6 +22,7 @@ Ansioso por um futuro promissor e acredito que ele só pode ser alcançado com t
 <a href="https://discordapp.com/users/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=".guanabara11" height="30" width="40" /></a>
 </p>
 
+
 <h3 align="left">Techs & Stacks:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,tailwindcss,bootstrap,jquery,dart,php,cpp,lua)](https://skillicons.dev) <br>
@@ -29,11 +30,13 @@ Ansioso por um futuro promissor e acredito que ele só pode ser alcançado com t
 
 <h1 align="center"> </h1>
 
+
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://lanyard-profile-readme.vercel.app/api/680987474797002752?theme=dark&bg=000000&animated=false&borderRadius=10px" />
+  <a href="">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=af3nvwcbe4wpn6677xshar1ar&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=0095c7&bar_color_cover=true" /> <!--merko-->
   </a>
 </p>
+
 
 <p align="center">
   <a href="https://git.io/streak-stats">
