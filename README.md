@@ -44,9 +44,10 @@ Ansioso por um futuro promissor e acredito que ele só pode ser alcançado com t
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/lucashaddd?tab=overview&from=2023-09-01&to=2023-09-20">Older Account</a>
+</p>
 
-
-<p align="center"> <img src="https://github.com/lucashaddd?tab=overview&from=2023-09-01&to=2023-09-20" alt="Older Account" /> </p>
 
 <h1 align="center"> </h1>
 <h3 align="center">while (!(succeed = try ()));:</em></h3>
