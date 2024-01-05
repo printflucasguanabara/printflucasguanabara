@@ -1,6 +1,5 @@
 <h1 align="center">Olá<a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"></a>, eu sou o Lucas</h1>
 
-
 <h3 align="center"><em>Graduando em Sistemas de Informação<br>
 Muitos sonhos e sede pela mudança por meio da tecnologia.<br>
 Ansioso por um futuro promissor e acredito que ele só pode ser alcançado com trabalho duro e dedicação.</em></h3><br>
