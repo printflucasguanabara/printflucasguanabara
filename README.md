@@ -49,7 +49,7 @@ Ansioso por um futuro promissor e acredito que ele só pode ser alcançado com t
 
 
 <h1 align="center"> </h1>
-<h3 align="center">while (!(succeed = try ()));:</em></h3>
+
 
 
  
