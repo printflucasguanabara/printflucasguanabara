@@ -22,13 +22,19 @@ Ansioso por um futuro promissor e acredito que ele só pode ser alcançado com t
 </p>
 
 
-<h3 align="left">Techs & Stacks:</h3>
+<h3 align="left">Skills:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,tailwindcss,bootstrap,jquery,dart,php,cpp,lua)](https://skillicons.dev) <br>
-[![My Skills](https://skillicons.dev/icons?i=figma,photoshop,xd)](https://skillicons.dev)
+
+
+<h3 align="left">Ferramentas e Software:</h3>
+<h5 align="left">Além da programação, sou proficiente no uso de diversas ferramentas e softwares, incluindo::</h5>
+
+[![My Skills](https://skillicons.dev/icons?i=figma,photoshop,xd,illustrator)](https://skillicons.dev)
+
+<br><br><br>
 
 <h1 align="center"> </h1>
-
 
 <p align="center">
   <a href="">
