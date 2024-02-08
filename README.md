@@ -24,7 +24,7 @@ Ansioso por um futuro promissor e acredito que ele só pode ser alcançado com t
 
 <h3 align="left">Skills:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,tailwindcss,bootstrap,jquery,dart,php,cpp,lua)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,tailwindcss,git,bootstrap,jquery,dart,php,cpp,lua)](https://skillicons.dev) <br>
 
 
 <h3 align="left">Ferramentas e Software:</h3>
