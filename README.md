@@ -14,6 +14,8 @@ Ansioso por um futuro promissor e acredito que ele só pode ser alcançado com t
 
 - 📫 Melhor forma de me contatar: **lucasff.guanabara@gmail.com**
 
+> *repositórios privados são estudos, ou algum projeto ultra secreto* 🤫
+
 <h3 align="left">Rede Sociais:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/lucas-f-guanabara-1a688b1b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lucas-f-guanabara-1a688b1b7/" height="30" width="40" /></a>
