@@ -22,6 +22,7 @@ Ansioso por um futuro promissor e acredito que ele só pode ser alcançado com t
 <a href="https://instagram.com/lucasguanabara_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucasguanabara_" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=".guanabara11" height="30" width="40" /></a>
 <a href="https://codepen.io/printflucasguanabara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="printflucasguanabara" height="30" width="40" /></a>
+  <a href="https://www.behance.net/lucasguanabara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="printflucasguanabara" height="30" width="40" /></a>
 </p>
 
 
