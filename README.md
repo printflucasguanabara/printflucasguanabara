@@ -7,7 +7,8 @@
 
 - Graduando em Sistemas de Informação
 - Escrevo sobre tecnologias, programação e outras coisas no <a href="https://lucasfguanabara.xyz/blog" target="_blank">meu blog</a>.
-- Possuo expertise em TS, JS, NodeJs, SASS, Tailwind CSS, HTML, CSS, PHP, C++,
+- Possuo expertise em TS, JS, NodeJs, GIT, SASS, Tailwind CSS, HTML, CSS, PHP, C++.
+- Habilidades em design utilizando Figma e Photoshop.
 - No momento estou criando projetos pessoais variados e dinâmicos.
 - Melhor forma de me contatar lucasff.guanabara@gmail.com ou veja meu <a href="https://lucasfguanabara.xyz" target="_blank">website</a> para mais links!
 
